@@ -1,0 +1,257 @@
+card_id,chapter,chapter_number,number_in_chapter,combination,igbo_meanings,english_meanings
+AFA-001,Chapter 1: Agali (Aghali),1,1,Aghali Aka,Ihe na-agba agba di ka akpi | Agbisi,Something that stings like and ant or scorpion
+AFA-002,Chapter 1: Agali (Aghali),1,2,Aghali Akwu,Okuke | Ite | Okuku,Consecrated calabash | Earthen pot
+AFA-003,Chapter 1: Agali (Aghali),1,3,Aghali Naabo,Ato | Ito | Ikenga | Mba | Ino Olu | Agwu,Ato Goddess (Nne Agwu/Nne Atu) | Ikenga deity | Victory | Aries | Mars | Fulfillment
+AFA-004,Chapter 1: Agali (Aghali),1,4,Aghali Atulukpa,Ihe a na-ewero ihe | Ihe di obere | Oboloto,Something insignificant | Something very small | Something minor | Oboloto plant (regarded as the smallest seed of creation) | Seed star
+AFA-005,Chapter 1: Agali (Aghali),1,5,Aghali Ete,Mbokili | Ekweekwe | Onye na emesi ike | Obo,Non-compromising | Doubting person | Stubborn person | Pained vengeance
+AFA-006,Chapter 1: Agali (Aghali),1,6,Aghali Ijite or Aghali Ogwute,Irado ihe dika alo | Okili,Installing something | Showing strong backing for something
+AFA-007,Chapter 1: Agali (Aghali),1,7,Aghali Obara,Ndi echichi,Titled person
+AFA-008,Chapter 1: Agali (Aghali),1,8,Aghali Ora,Nseke,Trouble | Sickness | Problem
+AFA-009,Chapter 1: Agali (Aghali),1,9,Aghali Okara,Nwata nwoke,Male child
+AFA-010,Chapter 1: Agali (Aghali),1,10,Aghali Ose,Ifere | Ife Ifere,Shame | Shameful thing
+AFA-011,Chapter 1: Agali (Aghali),1,11,Aghali Obi,Ire ana ere | Oria,Retrogression | Illness
+AFA-012,Chapter 1: Agali (Aghali),1,12,Aghali Odi,Chukwu Okike | Ikem | Ivite | Adama | Ogbalaike/Ogbalike,The Supreme Creator | Ikem (town) | Last or third child | The root of humanity | Most ancient human beings | Strong Spear
+AFA-013,Chapter 1: Agali (Aghali),1,13,Aghali Ofu,Ego | Okike Chukwu,Money | Material wealth | Recreation
+AFA-014,Chapter 1: Agali (Aghali),1,14,Aghali Ogheli,Umuaka,Children
+AFA-015,Chapter 1: Agali (Aghali),1,15,Aghali Otule,Ikpo uzu onu | Ndi uzu | Ona | Oka | Okwu a na ekwu n'onu,Rekindling fire with mouth | The precious metal | Blacksmiths | Awka town | Oral speech
+AFA-016,Chapter 1: Agali (Aghali),1,16,Aghali Ululu,Ihe a juju aju | Amu | Ochi,Rejected thing | Laughter
+AFA-017,Chapter 2: Aka,2,1,Aka Naabo,Igbanje | Ogbanje | Oso | Ndi njem | Ndi ogbanje,To go on a journey | Spirit on a mission | Run | Traveling spirits | Ogbanje spirits
+AFA-018,Chapter 2: Aka,2,2,Aka Akwu,Ndi Ushi Aka | Ndi Mbu | Ndichie,First Ancestors who arrived before death | Ascended Ancestors
+AFA-019,Chapter 2: Aka,2,3,Aka Aghali,Anu | Uga Azi | Umu Azi,Meat | Wild animal | Uga Azi world age | Corrupted mind(s)
+AFA-020,Chapter 2: Aka,2,4,Aka Atulukpa,Oji | Nkwado | Ikwusike,Iroko | Support | Standing firm
+AFA-021,Chapter 2: Aka,2,5,Aka Ete,Aro Abagana | Obi Mbu | Azu | Iyi | Mmili bu Ndu Azu | Orimiri / Oshimmiri / Ishimmiri | Idemmili | Egbe,Mother of the Sun | The first star | First vibrating light | Fish | River | Water Energy | Idemmili Goddess | Virgo | Aquarius | Kite
+AFA-022,Chapter 2: Aka,2,6,Aka Ijite or Aka Ogwute,Ala | Ani | Ana | Ndi ana,Land | Earth | Land spirits
+AFA-023,Chapter 2: Aka,2,7,Aka Obara,Udara | Odu | Ndi chizuru echizu | Ndi 'Umuodu' na 'Ikiti',Udara fruit | Titled person | People named 'Umuodu' and 'Ikiti'
+AFA-024,Chapter 2: Aka,2,8,Aka Ora,Chi | Ulo | Ezumike | Chukwu | Mgba Aho | Aho/Aro | Eze Udene | Udene Agwu,Chi | House | Abode | Resting place | God | Source (Ancient Sun) | Aho’s Circle | Twelve Months | Agwu’s totem
+AFA-025,Chapter 2: Aka,2,9,Aka Okara,Ihe ajuru ahu | Osu | Ohu,Questionable thing | Something publicly rejected | Shrine devotee | Chosen one | Slave
+AFA-026,Chapter 2: Aka,2,10,Aka Ose,Akasa | Iyioji | Ogwugwu | Alusi | Aja Ana,Akashic records | Iyioji deity | Cosmic black sea | Ogwugwu deity | Earth consciousness | Astral light
+AFA-027,Chapter 2: Aka,2,11,Aka Obi,Ikpa elo | Ikwado Ime Ihe,Discussion | Preparing to do something
+AFA-028,Chapter 2: Aka,2,12,Aka Odii,Aja Ana | Ani/Ana/Ala | Nde Ana,Earth consciousness | God of the land | Land deity | Earthlings
+AFA-029,Chapter 2: Aka,2,13,Aka Ofu,Obi Chukwu | Be Chukwu | Chi | Chi Ukwu | Anyanwu,Astral home of Chukwu | Chi | Source (Ancient God) | Sun (Ancient Sun)
+AFA-030,Chapter 2: Aka,2,14,Aka Ogheli,Aro,Aro spirit | Year
+AFA-031,Chapter 2: Aka,2,15,Aka Otule,Ofo | Ndi na aza “Ofoka” na “Ofoma”,Ofo | Mercury | Authority | Truth | People named Ofoka and Ofoma
+AFA-032,Chapter 2: Aka,2,16,Aka Ululu,Ndi Ushi Aka | Ndi Mbu | Ndichie n'obi | Ikwunne,First ancestors who arrived after death | Ancestors in their sacred abode | Mother’s side of the family
+AFA-033,Chapter 3: Akwu,3,1,Akwu Aka,Ebunu | Ude | Nkwo,Ram | Wind | Nkwo market day
+AFA-034,Chapter 3: Akwu,3,2,Akwu Naabo,Ikwu ofu ebe | Inodu nkiti,Something standing one place | Being docile or passive
+AFA-035,Chapter 3: Akwu,3,3,Akwu Aghali,Anu | Mmee | Akwali Omumu / Oda Omumu / Nne Omumu,Meat | Red meat | Animal | Blood | Centripetal energy | Procreative energy
+AFA-036,Chapter 3: Akwu,3,4,Akwu Atulukpa,Ulo Oji,Strong house | House built using Iroko
+AFA-037,Chapter 3: Akwu,3,5,Akwu Ete,Osimili / Orimili | Iyi | Ihe na-ahio uzu | Uzu | Ebenebe,Open (body of) water | Sea | Ocean | Something that makes noise | Ebenebe Tree | Hen with chicks
+AFA-038,Chapter 3: Akwu,3,6,Akwu Ijite or Akwu Ogwute,Izu ezu | Ndi Mbu,Completion | First ones | Ancient ones
+AFA-039,Chapter 3: Akwu,3,7,Akwu Obara,Ato | Ndi Echichi | Di ka Ozo | Onye Ama-Ama | Ogbu Efi | Oke Efi,Ato Goddess (Nne Agwu/Nne Atu) | Titled persons | Similar to Ozo title holders | Cow | Taurus
+AFA-040,Chapter 3: Akwu,3,8,Akwu Ora,Ulo | Be mmadu,Home | One's house
+AFA-041,Chapter 3: Akwu,3,9,Akwu Okara,Obi,Home | Altar | Heart | Sacred space
+AFA-042,Chapter 3: Akwu,3,10,Akwu Ose,Ikenga Nwanyi | Uche | Nde Abo | Ndi Egede | Anya | Nde Dolu Anya,Feminine spiritual power | Wisdom | Divine mind | Second ancient ancestors
+AFA-043,Chapter 3: Akwu,3,11,Akwu Obi,Eghu | Ewu Igwe | Ewu,Capricorn | Sky goat | Goat
+AFA-044,Chapter 3: Akwu,3,12,Akwu Odii,Onwu inochili mmadu uzo | Onunu,Death blocking one’s way | Gaping hole
+AFA-045,Chapter 3: Akwu,3,13,Akwu Ofu,Uwa Nge | Eke | Komosu | Mgba-Nne-Chukwu | Eze-Onwekodo-Okike | Chi,Source World of all Existent Worlds | Mother God | Primordial nest | Womb | Divine mother
+AFA-046,Chapter 3: Akwu,3,14,Akwu Ogheli,Ihapu ulo | Onwu,Leaving home | Death
+AFA-047,Chapter 3: Akwu,3,15,Akwu Otule,Ihe a na-aku na-ada uda dika mgbilagba | Ubom | Ekwe | Ogene,Something that is stricken which makes a noise like a bell | Resounding sound
+AFA-048,Chapter 3: Akwu,3,16,Akwu Ululu,Obi Ndichie,Ancestral home | Ancestral abode
+AFA-049,Chapter 4: Atulukpa,4,1,Atulukpa Aka,Ukpaka na-agba n’ufeke | Igbapu oso | Oso,Oil bean seed that explodes and seeds fly away | Running
+AFA-050,Chapter 4: Atulukpa,4,2,Atulukpa Akwu,Ogodo | Akwa,Wrapper | Cloth
+AFA-051,Chapter 4: Atulukpa,4,3,Atulukpa Aghali,Ife mmado,Something gummy
+AFA-052,Chapter 4: Atulukpa,4,4,Atulukpa Naabo,Udo | Ihe na ama Udo | Ife e kedolu ekedo | Agbu,Rope | Something that is tied up
+AFA-053,Chapter 4: Atulukpa,4,5,Atulukpa Ete,Ugbo | Dada | Ogbanje,Plan | Platform | Boat | Stage | Means of transport | Dreadlocks
+AFA-054,Chapter 4: Atulukpa,4,6,Atulukpa Ogwute,Ndi Nze na Ozo,Ozo and Nze titled persons
+AFA-055,Chapter 4: Atulukpa,4,7,Atulukpa Obara,Ukwu isi ike n'ana,Being alright | Grounded or rooted in the land
+AFA-056,Chapter 4: Atulukpa,4,8,Atulukpa Ora,Nseke,Disagreement | Setback
+AFA-057,Chapter 4: Atulukpa,4,9,Atulukpa Okara,Ukwu isi ike n'ana | Aku,Being alright | Wealth
+AFA-058,Chapter 4: Atulukpa,4,10,Atulukpa Ose,Ife di obele,Something tiny
+AFA-059,Chapter 4: Atulukpa,4,11,Atulukpa Obi,Ndi Igbo | Igbanje,Igbo people | To go on a journey
+AFA-060,Chapter 4: Atulukpa,4,12,Atulukpa Odii,Ndi Nze na Ozo,Nze na Ozo titled People | Ndi nna
+AFA-061,Chapter 4: Atulukpa,4,13,Atulukpa Ofu,Ife idi juu | Oyi,Something being cold
+AFA-062,Chapter 4: Atulukpa,4,14,Atulukpa Ogheli,Nnukali na nsogbu maobu oria,Overcoming or being free from a problem or sickness
+AFA-063,Chapter 4: Atulukpa,4,15,Atulukpa Otule,Ndi chiri echichi,Titled people | Acknowledged leaders | Those appointed to be in charge
+AFA-064,Chapter 4: Atulukpa,4,16,Atulukpa Ululu,Ndichie n'Obi | Afor,Ancestors in their meeting place | Afor market day
+AFA-065,Chapter 5: Ete,5,1,Ete Aka,Ihe tere aka | Ihe meli gboo,Something very far | Something that happened in ancient past
+AFA-066,Chapter 5: Ete,5,2,Ete Akwu,Mkpotu | Uzu | Isi nne okuko,Noise | Hen with chicks
+AFA-067,Chapter 5: Ete,5,3,Ete Aghali,Ibo mbo | Obo | Mbokili,Retaliation | Disagreement
+AFA-068,Chapter 5: Ete,5,4,Ete Atulukpa,Nwaanyi | Ada,Female human | First daughter of a family
+AFA-069,Chapter 5: Ete,5,5,Ete Naabo,Ihe ibide | Ihe mberede | Mmili Ibida,Sudden event | Unexpected occurrence | Accident | Sudden heavy rain
+AFA-070,Chapter 5: Ete,5,6,Ete Ogwute or Ete Ijite,Akwkwo na ato | Nwaanyi muru nwa | Akwukwa,Cooking stove | A woman with children
+AFA-071,Chapter 5: Ete,5,7,Ete Obara,Mbala | Ihe ghe oghe | Ihe putara ihe,Width | Wide | Spacious | Open space | Something that is open or clear
+AFA-072,Chapter 5: Ete,5,8,Ete Ora,Igba ama | Ama | Amuma | Ikuku Chukwu | Ise,Ether | To reveal | Divination | Testify | Prophecy | Primal Energy | Actualization | Number five
+AFA-073,Chapter 5: Ete,5,9,Ete Okara,Agba e gburu egbu | Nwanyi,Broken promise | Unfulfilled pledge | Female
+AFA-074,Chapter 5: Ete,5,10,Ete Ose,Eziokwu | lyi | Inwu iyi | Onu Anwu | Ogwugwu,Truth | Sincerity | Oath | Justice | River | Oath-taking | Astral black holes | Bottomless ether hole
+AFA-075,Chapter 5: Ete,5,11,Ete Obi,Ute Komosu | Mmiri | Ndi mmiri | Oshimili,Cosmic Mat | Water | Water spirits | Aquarius
+AFA-076,Chapter 5: Ete,5,12,Ete Odii,Ikwachi ife | Imechi ife | Mgbuchi,Complete something | Repair something | Mend or Close something | To block or blockage
+AFA-077,Chapter 5: Ete,5,13,Ete Ofu,Ife idi mma | Ife iju oyi | Ogwugwu,A good thing | A cold thing | Dark matter | Pure vibrations
+AFA-078,Chapter 5: Ete,5,14,Ete Ogheli,Okwu kpochiri,Closed matter
+AFA-079,Chapter 5: Ete,5,15,Ete Otule,Oji | Ofo,Kola | Ofo
+AFA-080,Chapter 5: Ete,5,16,Ete Ululu,Nwaanyi obuna,Any female human being
+AFA-081,Chapter 6: Ijite (Ogwute),6,1,Ijite or Ogwute Aka,Ndu | Iwenyi aka ndu enu | Aka Ikenga | Adu,Life | Realm of Life | To have the hand or help or a life from above | Free from a problem | To be strengthened in life | Divine help | Ikenga spirit | Unindividualized human-spirit | God consciousness
+AFA-082,Chapter 6: Ijite (Ogwute),6,2,Ijite or Ogwute Akwu,"Akwali itili mmadu akwali | Ofia | Ndi bi n'ofia | Akwali Omumu (Nne Omumu, Omu, Oda Omumu)",Protection | To give one protection | Bush or forest | Beings that live in the bush | Omumu goddess of fertility and procreation
+AFA-083,Chapter 6: Ijite (Ogwute),6,3,Ijite or Ogwute Aghali,Anu nwere ukwu abuo,Two-legged animal
+AFA-084,Chapter 6: Ijite (Ogwute),6,4,Ijite or Ogwute Atulukpa,Ntakwulu mmadu okwu,To whisper to someone
+AFA-085,Chapter 6: Ijite (Ogwute),6,5,Ijite or Ogwute Ete,Idemmili | Alusi bi na mmiri | Mmuo Mmiri | Mmiri | Ogwugwu | Ite | Okwute | Alusi bi na ofia | Agwa Agu | Ato | Akpu,Idemmili Goddess | Deity that lives in the water | Water Spirits | Water | I-am-ness of Water | Stone | Deity that lives in the bush or forest | Leo | Ato Goddess (Nne Agwu/Nne Atu) | Akpu Sacred Cotton tree | Constellation of Virgo
+AFA-086,Chapter 6: Ijite (Ogwute),6,6,Ijite or Ogwute Naabo,Ukwu | Ije | Uzo | Ogologo Uzo | Anyi,Journey | Roadside | Long road | Beingness
+AFA-087,Chapter 6: Ijite (Ogwute),6,7,Ijite or Ogwute Obara,Ukwu | Isi mmadu ike n’ana | Nzu,To be alright | To be firm on land
+AFA-088,Chapter 6: Ijite (Ogwute),6,8,Ijite or Ogwute Ora,Chi | Chi Ukwu,Chi
+AFA-089,Chapter 6: Ijite (Ogwute),6,9,Ijite or Ogwute Okara,Ukwu | Ukwu Mmadu,Leg | Human leg
+AFA-090,Chapter 6: Ijite (Ogwute),6,10,Ijite or Ogwute Ose,Alusi Udo | Alusi Edo | Oge Anyanwu | Ona Edo | Ihe na-eme nrughari | Anyanwu Ibo Odo,Udo deity | Prince of peace | Golden daughter of Idemmili | When the Sun turns into her golden color | Gold | Something untrustworthy or manipulative or unreliable | Sun turns golden yellow
+AFA-091,Chapter 6: Ijite (Ogwute),6,11,Ijite or Ogwute Obi,Uro | Chi Ovuvo | Adima,Brightness | Better days
+AFA-092,Chapter 6: Ijite (Ogwute),6,12,Ijite or Ogwute Odii,Iduu | Nwa Osha | Mmadu | Omalu | Ife na-eji nji | Mgbuchite | Anasi (Anyasi) | Uchichi,The enlightened wise person of knowledge and wisdom | Black or dark one | Something black or dark | Something that holds | Night
+AFA-093,Chapter 6: Ijite (Ogwute),6,13,Ijite or Ogwute Ofu,Chi | Inwe Chi,Chi | To have your Chi on your side
+AFA-094,Chapter 6: Ijite (Ogwute),6,14,Ijite or Ogwute Ogheli,Nkiti | Ihe Nkiti,Small thing | Inconsequential | Nothingness
+AFA-095,Chapter 6: Ijite (Ogwute),6,15,Ijite or Ogwute Otule,Onwa | Anuli | Onu,Moon | I-am-ness of the Moon | Joy
+AFA-096,Chapter 6: Ijite (Ogwute),6,16,Ijite or Ogwute Ululu,Ahia Orie | Ima Oso | Ikpe,Orie market | Running | Arbitration
+AFA-097,Chapter 7: Obala (Obara),7,1,Obara Aka,Nkwadolu maobu,Supporting or backing someone in something
+AFA-098,Chapter 7: Obala (Obara),7,2,Obara Akwu,Ife ibu uka ife ikpa ike | Onye na ewu ewu | Mpkuru,Power of prophecy | Divine consciousness | Uncontrollable | Celebrity | Something becoming dangerous
+AFA-099,Chapter 7: Obala (Obara),7,3,Obara Aghali,Ife mmee | Igbu anu,Something bloody | Animal Sacrifice
+AFA-100,Chapter 7: Obala (Obara),7,4,Obara Atulukpa,Onye na-aba mba,Someone yelling or shouting
+AFA-101,Chapter 7: Obala (Obara),7,5,Obara Ete,Ife ibu uka ife ikpa ike | Mpkuru,Uncontrollable | Something becoming dangerous
+AFA-102,Chapter 7: Obala (Obara),7,6,Obara Ogwute or Obara Ijite,Agwu | Ikuku | Mmuo Ogirishi,Spirit of divination | Air | Ogiri-Ishi
+AFA-103,Chapter 7: Obala (Obara),7,7,Obara Naabo,Ife | Ihe | Ihe putara ihe | Anwu Anwu | Uchichi na Eshishe,Reality | Something that is real | Something that has come to reality | Night and Day
+AFA-104,Chapter 7: Obala (Obara),7,8,Obara Ora,Ogwu | Ekwensu,Medicine | Something concocted
+AFA-105,Chapter 7: Obala (Obara),7,9,Obara Okara,Awuwo | Aghugho,Deceit | Trickery
+AFA-106,Chapter 7: Obala (Obara),7,10,Obara Ose,Ogwu | Onye na agwo Ogwu | Onye afifia na Ogwu | Agwu,Medicine | Someone who makes Ogwu | Herbalist | Agwu
+AFA-107,Chapter 7: Obala (Obara),7,11,Obara Obi,Ikwuota,Being worried
+AFA-108,Chapter 7: Obala (Obara),7,12,Obara Odii,Iba Mba,Scolding | Yelling
+AFA-109,Chapter 7: Obala (Obara),7,13,Obara Ofu,Mmanya | Mmanya oku,Drink | Hot drink
+AFA-110,Chapter 7: Obala (Obara),7,14,Obara Ogheli,Ajija | Mkpuluobi | Atulu,Being worried | Sheep
+AFA-111,Chapter 7: Obala (Obara),7,15,Obara Otule,Umu Anwu | Dibia Afa | Dibia Aruike,Children of cosmic light | Enlightened ones | Dibia | Herbalist | Diviner
+AFA-112,Chapter 7: Obala (Obara),7,16,Obara Ululu,Ngwugwu | Nnekwu Ogwu | Ife arapuarapu,Wrapped item | Big charm | Something left alone
+AFA-113,Chapter 8: Obi (Ogbi),8,1,Obi Aka,Ojije,Going
+AFA-114,Chapter 8: Obi (Ogbi),8,2,Obi Akwu,Otutu Madu | Ora | Enyi,Many people | Collective | World | Elephant | Very huge and mighty
+AFA-115,Chapter 8: Obi (Ogbi),8,3,Obi Aghali,Oriri | Ndaghali | Ife idako onu | Izuzu | Ndaka | Nghasa | Ihe na emebi ihe,Feasting | Merriment | Something happening coincidentally | Strong action | Something to go bad
+AFA-116,Chapter 8: Obi (Ogbi),8,4,Obi Atulukpa,Ikpo izu | Idokwe ife | Ichu aja,Call a meeting | Appeasement rite | Sacrifice | To prevent something from happening
+AFA-117,Chapter 8: Obi (Ogbi),8,5,Obi Ete,Okuku Agwu | Okuko | Nne okuko,Agwu Mystic Memory Bowl | Fowl | Female fowl
+AFA-118,Chapter 8: Obi (Ogbi),8,6,Obi Ijite or Obi Ogwute,Mgbugbo | Ife di n’mmadu n’akuku | Ngbochi,Boundary | Something beside or behind a person | Prevention
+AFA-119,Chapter 8: Obi (Ogbi),8,7,Obi Obala,Ihihe | Ife meli na ihihe,Daylight | Something that took place in the open
+AFA-120,Chapter 8: Obi (Ogbi),8,8,Obi Ora,Ihe a hapuru ahapu | Ikwute Ume Ndu | Agwu Nsi,Something left alone | To take conscious breaths | Agwu
+AFA-121,Chapter 8: Obi (Ogbi),8,9,Obi Okara,Agba e gburu egbu | Onye Obia,Appointment | Visitor
+AFA-122,Chapter 8: Obi (Ogbi),8,10,Obi Ose,Nso | Ife di nso | Abosi (Oboshi) | Abosi-Nwa-Isi-Udughudu,Near | Something closeby | Protective deity of Dibia
+AFA-123,Chapter 8: Obi (Ogbi),8,11,Obi Naabo,Aru na Anu Aru | Ndi njem abuo | Ije ije ugbo abuo | Eje anaa | Iwa ibu | Ka anyi jeve,Dualistic physical forms | Two travelers | Embark on a journey twice | Going out and coming in | Things used to settle Chi | Let’s go
+AFA-124,Chapter 8: Obi (Ogbi),8,12,Obi Odii,Ife itua n’ukwusi ana,Something being very close
+AFA-125,Chapter 8: Obi (Ogbi),8,13,Obi Ofu,Igba mbo | Ime ihe di anaa,Hustle | Doing a surprising thing or something noteworthy
+AFA-126,Chapter 8: Obi (Ogbi),8,14,Obi Ogheli,Nwa Okuku | Ife di obere | Uburu,Chick | Something that is small
+AFA-127,Chapter 8: Obi (Ogbi),8,15,Obi Otule,Anuli | Iji Ofo | Inwe ezi akaraaka,Happiness | Being truthful or to have spiritual authority | Good destiny
+AFA-128,Chapter 8: Obi (Ogbi),8,16,Obi Ululu,Akwa | Akwa alili | Ajadu,Cry | Heavy or painful weeping | Widow or Widower
+AFA-129,Chapter 9: Odii,9,1,Odii Aka,Ibu,Suffering | Load
+AFA-130,Chapter 9: Odii,9,2,Odii Akwu,Ndeli | Iwe,Cosmic darkness | Anger
+AFA-131,Chapter 9: Odii,9,3,Odii Aghali,Nne Ike | Isa ivi | Isa asisa | Ugwa,Mother of Ikenga | Open confession | Sleeping with relative
+AFA-132,Chapter 9: Odii,9,4,Odii Atulukpa,Oche,Grandmother (from father's land)
+AFA-133,Chapter 9: Odii,9,5,Odii Ete,Idemmili | Agwa Agu | Egwu,Idemmili Goddess | Leo energy | Fear
+AFA-134,Chapter 9: Odii,9,6,Odii Ijite or Odii Ogwute,Ana | Ani | Aja Ani | Oji | Nnekelechi,Land | Earth | Kolanut | Divine Mother that created Chi
+AFA-135,Chapter 9: Odii,9,7,Odii Obara,Ochie | Nne Nne | Nnechukwu | Nne Agwu Okpanku (Okponku) | Anwu Anwu,Grandmother | Divine Mother | Mother of the Deathless Light (anwu)
+AFA-136,Chapter 9: Odii,9,8,Odii Ora,Aro Abagana | Iku Ume Ndu | Ime-Obi-Chukwu | Dibia Ume Ndu,Mother of the Sun | To birth new life | Meditative breathing | Breath of life | Air | Calming down | Consciousness | Alternative Medicine
+AFA-137,Chapter 9: Odii,9,9,Odii Okara,Nne Ochie | Ndi be nna | Nnukwu nna,Grandmother | Father’s homestead
+AFA-138,Chapter 9: Odii,9,10,Odii Ose,Nnekelechi | Uwa | Iwe,Mother that created Chi | The world | Anger
+AFA-139,Chapter 9: Odii,9,11,Odii Obi,Udo | Akpa Ogwu | Agwu,Peace | Dibia’s medicine bag
+AFA-140,Chapter 9: Odii,9,12,Odii Naabo,Ochichiri | Nderi (Ndeli) | Ime abali | Uchichi | Agwu | Ndeli Atu Egwu | Nwa Obinoko,Darkness | Primordial darkness | Night | Midnight | Agwu | Fearless old spirit lady
+AFA-141,Chapter 9: Odii,9,13,Odii Ofu,Avo ime | Alu emetalu na afo ime | Igbudo aja ani,Pregnancy | An act that requires cleansing like “abortion”
+AFA-142,Chapter 9: Odii,9,14,Odii Ogheli,Ogwugwu,Ogwugwu
+AFA-143,Chapter 9: Odii,9,15,Odii Otule,Nna | Ndi nna | Be Nna,Father | Paternal relatives
+AFA-144,Chapter 9: Odii,9,16,Odii Ululu,Ikwunne | Ndi Ikwunne | Ndi Ogo,Maternal home | Maternal relatives
+AFA-145,Chapter 10: Ogoli (Ogholi),10,1,Ogheli Aka,Onunu | Ikwa Aya Mmadu,Gaping hole | Taking all that one has | Collecting ones property | Fight
+AFA-146,Chapter 10: Ogoli (Ogholi),10,2,Ogheli Akwu,Ihe a kwabatali akwabata | Okwu na Ukporo | Nwunye muru nwa | Nwa Unye | Eke Ogba Ijele,Something that is brought in | Sacred and Mundane time | Wife who gave birth | Symbol of Python Swallowing Its Own Tail
+AFA-147,Chapter 10: Ogoli (Ogholi),10,3,Ogheli Aghali,Nwaanyi i pu n’ama | Ino na Nso,A woman being in her period | Menstruation
+AFA-148,Chapter 10: Ogoli (Ogholi),10,4,Ogheli Atulukpa,Nwaanyi | Nne ochie,Woman
+AFA-149,Chapter 10: Ogoli (Ogholi),10,5,Ogheli Ete,Aro,Aro (Alusi/Spirit)
+AFA-150,Chapter 10: Ogoli (Ogholi),10,6,Ogheli Ogwute,Ovuve,Ovuve (agbara)
+AFA-151,Chapter 10: Ogoli (Ogholi),10,7,Ogheli Obara,Onwu | Ihe maobu onye nwuru anwu,Death | Something or someone that is dead
+AFA-152,Chapter 10: Ogoli (Ogholi),10,8,Ogheli Ora,Oya | Isi Mgbaka,Illness | Madness
+AFA-153,Chapter 10: Ogoli (Ogholi),10,9,Ogheli Okara,Nnenwanyi Okpu | Okpu-ka-Okpu | Nwaanyi turu ime,Final primogenital authority | Sacred woman | Pregnant woman
+AFA-154,Chapter 10: Ogoli (Ogholi),10,10,Ogheli Ose,Ishele-eme-Chi Uwa | Nwanya Anwu | Ifere | Ife ifere,"Shylessness, the Chi of the world or universe | Sun Woman | Goddess Eye of Deathlessness | Fear | Fearful or Shameful thing"
+AFA-155,Chapter 10: Ogoli (Ogholi),10,11,Ogheli Obi,Eso | Nsogbu | Ife Ike,Trouble | Problem | Difficulty
+AFA-156,Chapter 10: Ogoli (Ogholi),10,12,Ogheli Odii,Igado akaukwu,Holding or blocking someone
+AFA-157,Chapter 10: Ogoli (Ogholi),10,13,Ogheli Ofu,Afo olulu,Stomach ache
+AFA-158,Chapter 10: Ogoli (Ogholi),10,14,Ogheli Naabo,Onye na aku uta | Ife mberede | Agwu,Someone that complains | Something that happens suddenly
+AFA-159,Chapter 10: Ogoli (Ogholi),10,15,Ogheli Otule,Ofufe | Ogwugwu,Ofufe (agbara) | Ogwugwu
+AFA-160,Chapter 10: Ogoli (Ogholi),10,16,Ogheli Ululu,Nwaanyi Ajadi | Igbamkpe,A woman mourning her husband | Widow | Mourning
+AFA-161,Chapter 11: Okala,11,1,Okala Aka,Alu | Ita alu | Ife na-ata alu dika nkita,Bite | Anything that bites like a dog
+AFA-162,Chapter 11: Okala,11,2,Okala Akwu,Ofia | Ajo Ofia | Ugwu | Ndi bi na ugwu | Arobinagu,Forest | Evil Forest | Mountain | Those that live on the mountain | Arobinagu
+AFA-163,Chapter 11: Okala,11,3,Okala Aghali,Ife a bosari abosa | Nkasa,Something that has been dissolved
+AFA-164,Chapter 11: Okala,11,4,Okala Atulukpa,Nkaliuka,Discussion
+AFA-165,Chapter 11: Okala,11,5,Okala Ete,Ndi Egede | Ndi Ana | Ndi Mmili | Akpu | Akpu Nwanya | Akpu Nwa Eze Dibia | Akpu Nwa Eje-Ana | Nwanyi Dibia,Second ancient ancestors | Inhabitants of the earth and water | Akpu Sacred Cotton tree
+AFA-166,Chapter 11: Okala,11,6,Okala Ogwute,Agwu,Agwu
+AFA-167,Chapter 11: Okala,11,7,Okala Obara,Awuwo | Ntu,Cunning | Lies
+AFA-168,Chapter 11: Okala,11,8,Okala Ora,Anyanwu | Ike | Ngwu | Ogwu | Ndi Mbu,Half Sun | Centrifugal energy | Active force or positive charge | Ngwu sacred tree | Medicine | Charm | First ancestors | Shining ones
+AFA-169,Chapter 11: Okala,11,9,Okara Naabo,Ejima | Dokpu | Ihe zogali azoga,Twins | Gemini | Dragging | Something that was fought over
+AFA-170,Chapter 11: Okala,11,10,Okala Ose,Ogwu | Ngwu | Iko mmanya | Iko nkwu Dibia | Iko Dibia | Nsi | Uzi,Charm | Ngwu tree | Sacred cup | Chalice | Poison | Shameful things
+AFA-171,Chapter 11: Okala,11,11,Okala Obi,Ikpa ako | Ikpalo | Eziokwu,Contribution of idea | Sharing intellect | Discussion | To tell the truth
+AFA-172,Chapter 11: Okala,11,12,Okala Odii,Isu udee,Wallowing in pain
+AFA-173,Chapter 11: Okala,11,13,Okala Ofu,Nkwu | Ukwu Nkwu | Ojukwu Nwanya Mma,Palm | Palm tree
+AFA-174,Chapter 11: Okala,11,14,Okala Ogheli,Ekwensu | Uke,Ekwensu | Following spirits | Bad omen
+AFA-175,Chapter 11: Okala,11,15,Okala Otule,Ezigbo okwu,Truth | Quality words
+AFA-176,Chapter 11: Okala,11,16,Okala Ululu,Agwo | Nnekwu ogwu | Irapu Ife,Snake | Big charm | To leave something alone
+AFA-177,Chapter 12: Ora,12,1,Ora Aka,Nra,Fine
+AFA-178,Chapter 12: Ora,12,2,Ora Akwu,Ngana | Ihe na-adiro mma | Uchu,Dearth | Something that is not good | Impurities | Filth | Abominable | Curse
+AFA-179,Chapter 12: Ora,12,3,Ora Aghali,Umunna | Ora | Ihe di n'igwe,Kindred | Collective | Something in group
+AFA-180,Chapter 12: Ora,12,4,Ora Atulukpa,Ada | Umuada,First daughter | Daughters of the land
+AFA-181,Chapter 12: Ora,12,5,Ora Ete,Akwa | Mmiri,Cry | Water
+AFA-182,Chapter 12: Ora,12,6,Ora Ogwute,Utobo | Etiti nwa,Land monkey | Orangutan | Middle child
+AFA-183,Chapter 12: Ora,12,7,Ora Obara,Ugo | Ugbene Ugo | Ekwensu | Ife Ekwensu | Itulu ugo | Abubo Ugo | Ihe N'emebi Ihe | Eshishe | Etiti Ehishe | Osu Eshise | Umu Anwu,Eagle | Eagle feather | Ekwensu | Something belonging to or influenced by Ekwensu | Something that spoils things | Afternoon | Daylight | Children of Light
+AFA-184,Chapter 12: Ora,12,8,Ora Naabo,Eke | Okike | Ututu | Osisa Chi | Chi Ofufo | Oku,Eke day | Light | Day | Fire
+AFA-185,Chapter 12: Ora,12,9,Ora Okara,Odogwu Ozala | Nwoke Ike | Ndi Nze,Zal the scorpion | Scorpio | Tough Stong Man | Titled men
+AFA-186,Chapter 12: Ora,12,10,Ora Ose,Uta | Omalu,Arrow | Sickness | Scholar
+AFA-187,Chapter 12: Ora,12,11,Ora Obi,Nwanne Enwe bu Edi | Enwe | Ndi otu okwu,Monkey’s relation or sibling is the Civet-cat | Lemur | Monkey | Monkey God | Group of friends | Discussion group | Relation
+AFA-188,Chapter 12: Ora,12,12,Ora Odii,Ogba-golo-golo | Nti | Ichinti,Ogba-golo-golo plant | Ear | Deafness | To be hard of hearing | Concealed Sun.
+AFA-189,Chapter 12: Ora,12,13,Ora Ofu,Mu | Nwa ‘Mu’ | Nwanne otu okwu,“Mu’s” Child | Relation of one mother
+AFA-190,Chapter 12: Ora,12,14,Ora Ogheli,Nwata nwoke,Male child
+AFA-191,Chapter 12: Ora,12,15,Ora Otule,Diokpara | Onye Isi,First son | Leader
+AFA-192,Chapter 12: Ora,12,16,Ora Ululu,Ihe a juru aju,Something that is rejected
+AFA-193,Chapter 13: Ose,13,1,Ose Aka,Anya Eji Afu Mmuo | Onye Agwu di n’anya | Onya Ala | Onye Efio,Spiritual eyes | One who is imbued with eye of Nne Agwu or One who sees the spirit | Mad person (Agwu inflicted madness) | Rascal person
+AFA-194,Chapter 13: Ose,13,2,Ose Akwu,Ahia | Izu ahia,Market | Trade
+AFA-195,Chapter 13: Ose,13,3,Ose Aghali,Igba Mmadu Apa | Ihe di ocha,To inflict injury on someone | Something that is clean or white
+AFA-196,Chapter 13: Ose,13,4,Ose Atulukpa,Nsete ihe | Inwete ihe | Iganiru,Picking something up | Receiving something | Progressively moving forward
+AFA-197,Chapter 13: Ose,13,5,Ose Ete,Oke Agwu | Inye mmadu ihe | Iseli ihe | Iwelu Ife gi,Oke Agwu | Give someone something | To pick something | Something that has been brought | To take something from you
+AFA-198,Chapter 13: Ose,13,6,Ose Ogwute,Njidesi Ihe ma obu Mmadu Ike | Njide,Holding something or a person tight | To hold something | Earth’s magnetic pull | Tuber of food crops
+AFA-199,Chapter 13: Ose,13,7,Ose Obara,Agwu Agwu | Anwu | Nzu | Ichi echichi | Oganiru | Ima nzu | Ihe di ocha,Agwu as God of Light | Symbol of purity | Title taking | Progress | Something white or that shines bright
+AFA-200,Chapter 13: Ose,13,8,Ose Ora,Aka Uche | Uchechukwu | Iche echiche | Anya eji afu uzo | Anya kolu nenu | Onye obi ya kwefelu n’enu,Divine Mind | Universal Mind | Universal Consciousness | Thought | Thinking | The eye with which one sees the Spirit and the world | One whose eye is hanging up in the sky
+AFA-201,Chapter 13: Ose,13,9,Ose Okara,Ihe a juru aju | Nwucha | Idi ocha | Onye Nze,Something rejected | To be clean | Ozo titled person
+AFA-202,Chapter 13: Ose,13,10,Ose Naabo,Ihe e ji anya fu | Anya eji afu uzo | Ife afuruaya | Ihe nnene | Ihe ghere oghe,Something seen with the eye | Two eyes with which one sees the mortal world | Clairvoyant eyes | Spiritual eye | Something open
+AFA-203,Chapter 13: Ose,13,11,Ose Obi,Ila di | Ahia | Izu Ahia,Sexual intercourse | Market | Trade
+AFA-204,Chapter 13: Ose,13,12,Ose Odii,Dibia Oji | Nde Ana | Onye anya lulu ana | Onye anya dolu | Iwe,Ancient black mystics | Itinerant Igbo Dibias (Explorers) | One who has come to clarity | One who sees very deeply | To be angry
+AFA-205,Chapter 13: Ose,13,13,Ose Ofu,Agwu | Oshi | Amosu,Agwu | Theft | Witchcraft
+AFA-206,Chapter 13: Ose,13,14,Ose Ogheli,Iyi | Ife mmebi,Something spoiling | Total destroyer | Total loss
+AFA-207,Chapter 13: Ose,13,15,Ose Otule,Onu | Obi Mbu | Anuli,"Sothis (Sirius), the brightest star in the sky | Joy | Happiness"
+AFA-208,Chapter 13: Ose,13,16,Ose Ululu,Anya Nkiti | Anya eji-afu Mmadu | Ife a juru aju | Ulukpu | Agbulu Ukwu,Ordinary eyes | Physical eyes | Something that is rejected | Aether | Clouds | Cloud gatherer | Great Agbulu
+AFA-209,Chapter 14: Ofu (Ovu),14,1,Ofu Aka,Aka Ndu | Ndu | Okike | Mgbakali,Life path | Life | Creation | Freedom
+AFA-210,Chapter 14: Ofu (Ovu),14,2,Ofu Akwu,Chi Ukwu | Nzuko | Ogbako | Otukwu,Great spirit of limitlessness | Meeting | Gathering | Conference | Forest–Water–Mineral elemental world i.e. mind and memory realm of the earth
+AFA-211,Chapter 14: Ofu (Ovu),14,3,Ofu Aghali,Ike Chukwu | Ife mmee | Igbupu obara,Spiritual activeness | Something bloody | Something causing bleeding
+AFA-212,Chapter 14: Ofu (Ovu),14,4,Ofu Atulukpa,Ihe di mma | Ifeoma,Something good | Blessings
+AFA-213,Chapter 14: Ofu (Ovu),14,5,Ofu Ete,Mkporu | Uru,Sorrow | Mourning
+AFA-214,Chapter 14: Ofu (Ovu),14,6,Ofu Ijite or Ofu Ogwute,Ife e gbodoru egbodo | Ichi aka kwedo,Blockaid | Something struggling to move forward or succeed
+AFA-215,Chapter 14: Ofu (Ovu),14,7,Ofu Obara,Iyi Akwu | Anwu Anwu | Nzu | Mmanya,Ether | Sun | Koalin | Symbolizing purity | Drink
+AFA-216,Chapter 14: Ofu (Ovu),14,8,Ofu Ora,Chukwu | Anyanwu na Ubosi | Anyanwu na Agbala | Eziokwu | Okochi | Nwanya Anwu na Eze Enu | Ogilishi,God | The Absolute or Highest attainable state | Day and Night | Light and Darkness | Truth | Dry Season | Sun Woman and the Sky King | Ogilisi sacred plant
+AFA-217,Chapter 14: Ofu (Ovu),14,9,Ofu Okala,Ifeocha ukwu na aka | Ofala,Ablution | Washing hands and feet | Celebration of the first half of reign
+AFA-218,Chapter 14: Ofu (Ovu),14,10,Ofu Ose,Ajo nni | E ri nri na-adighi mmadu mma na e ri | Akpu,Bad food | Eating something that is not good for the body | Cassava plant
+AFA-219,Chapter 14: Ofu (Ovu),14,11,Ofu Obi,Ajo jie | Ije na-adighi mma,Bad journey | Something not being good | Oneness
+AFA-220,Chapter 14: Ofu (Ovu),14,12,Ofu Odii,Aru | Igbudo aja ani | Ndi Egede,Abomination | A committed act that requires cleansing | Ancestors who came into the world when the first abomination was committed
+AFA-221,Chapter 14: Ofu (Ovu),14,13,Ofu Naabo,Afufu,Hardship | Suffering
+AFA-222,Chapter 14: Ofu (Ovu),14,14,Ofu Ogheli,Okpu-Nwanyi-Nono | Ime Efio | Iko Ikpa,Great Matriach | Final Primogenital Authority | Rascality | Being heady
+AFA-223,Chapter 14: Ofu (Ovu),14,15,Ofu Otule,Onu | Anuli,Sirius | Gladness
+AFA-224,Chapter 14: Ofu (Ovu),14,16,Ofu Ululu,Njo | Ife jochali nio meche di mma,Bad | Something that was bad and later became good
+AFA-225,Chapter 15: Otule,15,1,Otule Aka,Mkpu | Iti Mpku | Mkpuani,Loud announcement | Public announcement | To be loud | Anthill
+AFA-226,Chapter 15: Otule,15,2,Otule Akwu,Uzu | Ihio Uzu,Noise | Make noise
+AFA-227,Chapter 15: Otule,15,3,Otule Aghali,Iyi | Azu,Oath | fish
+AFA-228,Chapter 15: Otule,15,4,Otule Atulukpa,Itakwuokwu | Ntamu,Whispering | Soliloquizing
+AFA-229,Chapter 15: Otule,15,5,Otule Ete,Ila di | Utu | Uta | Igwe (Alusi Igwe) | Uta Igwe na-agba Ana | Enigwe na-agba Ana Uta | Onu/Oni | Onunu | Ogwugwu,Sex | Penis | Arrow | Igwe deity | Sagittarius | (Energetic) Hole | Void
+AFA-230,Chapter 15: Otule,15,6,Otule Ijite or Otule Ogwute,Ikpu Ihe | Ikpu Aka n'Onu | Otinku (Okuko a ma na o bu oke) | Nne okuko | Ikpu Ife Joro Njo,To remove something | Male fowl | Female fowl | Remove or cover a bad thing
+AFA-231,Chapter 15: Otule,15,7,Otule Obara,Ugo | Idi Aso,Eagle | Being holy
+AFA-232,Chapter 15: Otule,15,8,Otule Ora,Okwu a nuru na nu | Inuru okwu,Words heard | Understood words
+AFA-233,Chapter 15: Otule,15,9,Otule Okara,Igba Agba | Ika Ihe,Giving appointment | To give date for something | To fix something
+AFA-234,Chapter 15: Otule,15,10,Otule Ose,Ajookwu | Ikwu Ajo Onu | Mma Oge | Ogbu Abani,Bad speech | Foul words | Provoking talk | Speaking with a bad mouth | Defensive Knife | Knife of time
+AFA-235,Chapter 15: Otule,15,11,Otule Obi,Ile oma,Politeness | A display of goodness | Visibly good
+AFA-236,Chapter 15: Otule,15,12,Otule Odii,Ihe di n'ukwu | Nnekwute ihe | Egbe | Ihe na ada uda,Something big or grand | Greatness | Gun | Something that makes a loud sound
+AFA-237,Chapter 15: Otule,15,13,Otule Ofu,Ile oma,Politeness | A display of positivity | Visibly good
+AFA-238,Chapter 15: Otule,15,14,Otule Ogheli,"Onye Ehio | Ehio | (Onye Evio, evio) | Nzuzu | Ofeke",Rascal someone | Rascally | Stupidity | Ignorant or unitiated person
+AFA-239,Chapter 15: Otule,15,15,Otule Naabo,Okike | Ikpe abuo | Okwu n'uka,Okike instrument that talks | Two cases | Dispute
+AFA-240,Chapter 15: Otule,15,16,Otule Ululu,Ahia Afo | Afo | Onu Ututu,Afo Market day | Earth | Land | Early (6am) in the morning
+AFA-241,Chapter 16: Ululu,16,1,Ululu Aka,Ji | Ulu,Yam | Benefits | Favour
+AFA-242,Chapter 16: Ululu,16,2,Ululu Akwu,Ajo nri mmadu riri | Nsi,Bad food eaten by somebody | Poison
+AFA-243,Chapter 16: Ululu,16,3,Ululu Aghali,Ife Oriri,Edible thing | A thing that exists for eating
+AFA-244,Chapter 16: Ululu,16,4,Ululu Atulukpa,Uha | Ilite Uwa,Gain | Accumulation | To gain benefit
+AFA-245,Chapter 16: Ululu,16,5,Ululu Ete,Ede | Ndaghachi Azu | Anya mmiri,Coco-yam | Set back in life | Challenge/Pain
+AFA-246,Chapter 16: Ululu,16,6,Ululu Ijite or Ululu Ogwute,Ji,Yam
+AFA-247,Chapter 16: Ululu,16,7,Ululu Obara,Iri ife | Inwe mmeri,To win or be a winner
+AFA-248,Chapter 16: Ululu,16,8,Ululu Ora,Aguu,Hunger
+AFA-249,Chapter 16: Ululu,16,9,Ululu Okara,A kachaa a kaboo,Disappointment
+AFA-250,Chapter 16: Ululu,16,10,Ululu Ose,Ukwuala | Ajo nri | Nsi,Cough | Bad food | Poison
+AFA-251,Chapter 16: Ululu,16,11,Ululu Obi,Uha | Ilite uwa | Ihe nrite,Gain | Accumulation | To gain benefit
+AFA-252,Chapter 16: Ululu,16,12,Ululu Odii,Akazu | Ajo nni | Ife nkwukwuli,Bribery | Bad food | Dirty business
+AFA-253,Chapter 16: Ululu,16,13,Ululu Ofu,Nri | Ime nri | Ife oriri ime | Ihe oriri | Mana Mana,Food | Edible thing | Which exists for eating | Manna/Spirit food
+AFA-254,Chapter 16: Ululu,16,14,Ululu Ogheli,Nri | Nri bi ife,Food | To eat poisoned food
+AFA-255,Chapter 16: Ululu,16,15,Ululu Otule,Ube Okpoko | Uha | Ilite uva,Ube (the first tree on earth) | Gain | make profit
+AFA-256,Chapter 16: Ululu,16,16,Ululu naabo,Ugwo | Iji ugwo,Debt
